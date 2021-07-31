@@ -1,0 +1,9 @@
+Options -Indexes
+
+RewriteEngine On
+
+# redirect to
+# https://www.screwmycode.in/youtube/[id]
+
+RewriteCond %{HTTP_HOST} !^screwmycode\.in$
+RewriteRule ^(.*)$ https://www.screwmycode.in/youtube/$1/1 [L,R=301]

@@ -1,0 +1,11 @@
+{
+    "name": "iscrewyoutu-be--www",
+    "author": {
+        "name": "Bamdad Sabbagh",
+        "email": "hi@bamdad.fr",
+        "url": "https://bamdad.fr/"
+    },
+    "devDependencies": {
+        "@bamdadsabbagh/eslint-config": "^1.14.0"
+    }
+}
