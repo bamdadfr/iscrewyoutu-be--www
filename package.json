@@ -8,5 +8,5 @@
     "devDependencies": {
         "@bamdadsabbagh/eslint-config": "^1.14.0"
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
